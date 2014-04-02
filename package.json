@@ -1,0 +1,19 @@
+{
+  "name": "openbadges-directory-client",
+  "version": "0.0.1",
+  "description": "API client for the Directory API",
+  "main": "lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/jpcamara/openbadges-directory-client.git"
+  },
+  "author": "jp camara",
+  "license": "MPL 2.0",
+  "bugs": {
+    "url": "https://github.com/jpcamara/openbadges-directory-client/issues"
+  },
+  "homepage": "https://github.com/jpcamara/openbadges-directory-client"
+}
