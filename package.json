@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/jpcamara/openbadges-directory-client/issues"
   },
-  "homepage": "https://github.com/jpcamara/openbadges-directory-client"
+  "homepage": "https://github.com/jpcamara/openbadges-directory-client",
+  "dependencies": {
+    "request": "~2.34.0"
+  }
 }
