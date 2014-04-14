@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/jpcamara/openbadges-directory-client",
   "dependencies": {
-    "request": "~2.34.0"
+    "request": "~2.34.0",
+    "restler": "~3.2.0"
   }
 }
